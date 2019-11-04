@@ -1,5 +1,5 @@
 # sweetstore-homepage
-freeCodeCamp's exercise of a landing page.
+Project Landing Page.
 <br>
-Part of Responsive Web Design Curriculum.
+Part of Responsive Web Design Curriculum from freeCodeCamp.
 
